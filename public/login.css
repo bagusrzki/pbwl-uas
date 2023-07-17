@@ -1,0 +1,13 @@
+body {
+    background-image: url(bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.panel-login {
+    background-color: rgba(92, 83, 88, 0.93);
+    border-radius: 10px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
